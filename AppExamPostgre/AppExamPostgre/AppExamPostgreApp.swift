@@ -11,7 +11,7 @@ import SwiftUI
 struct AppExamPostgreApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ProductListView(products: [Product])
         }
     }
 }
