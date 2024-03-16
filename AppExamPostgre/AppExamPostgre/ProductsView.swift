@@ -6,8 +6,7 @@
 //
 
 import SwiftUI
-import PostgresClientKit
-
+// it is not possible !
 struct ProductListView: View {
     // Массив товаров для отображения
     @State var products: [Product] = []
